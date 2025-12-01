@@ -1,2 +1,2 @@
-**Welcome to Open Source Medical Technology Lab!**
+**Welcome to Open Source Medical Technology Lab!** /n
 OpenMedTech Lab is an international collaborative community dedicated to advancing medical technology through innovative open source solutions. Convenor of the OpenMedTech Lab is Dr Monzurul Alam. We bring together developers, engineers, healthcare professionals, enthusiasts, everyone to create impactful projects for the community. Anyone from anywhere is warmly welcome to contribute to our projects!
